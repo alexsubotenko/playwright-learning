@@ -1,5 +1,6 @@
 import {test, expect} from '@playwright/test';
 
+//creating of interface
 interface User {
     id: number;
     name: string;
